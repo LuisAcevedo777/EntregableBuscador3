@@ -66,7 +66,7 @@ axios.get(`https://rickandmortyapi.com/api/location/${search}`)
    
   
       
-  <p>{rickObject.residents?.[0]}</p>
+  
   
   </main>
 
